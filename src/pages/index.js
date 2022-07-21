@@ -7,7 +7,6 @@ import Sections from '../components/InfoSection'
 import {
   homeObjFour,
   homeObjOne,
-  homeObjThree,
   homeObjTwo,
 } from '../components/InfoSection/data'
 import Services from '../components/Services'
