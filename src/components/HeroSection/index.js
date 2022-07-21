@@ -19,7 +19,9 @@ const Hero = () => {
       </HeroBg>
       <HeroContent>
         <HeroH1>Virtual Banking made Easy</HeroH1>
-        <HeroP>Sign Up for a new Acoount today!</HeroP>
+        <HeroP>
+          Sign Up for a new Acoount today and recieve R250 Credit on Us!
+        </HeroP>
         <HeroBtnWrapper>
           <Button primary="true" dark="true" to="signup">
             Get Started

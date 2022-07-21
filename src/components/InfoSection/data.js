@@ -6,7 +6,7 @@ export const homeObjOne = {
   topLine: 'Premium Banking',
   header: 'Unlimited Transactions with no fees',
   description:
-    'bjkashbdiuhefuh iuduiv bduiscnsjab uiuibiuascuibquisa bqausuias basiubsauib absiubauis  bauosb',
+    'Lorem ipsum dolor sit amet, consectetur adipiscing elit. Curabitur sit amet faucibus tellus vel purus pharetra, a consequat justo lobortis. Nam aliquet.',
   buttonLabel: 'Get started',
   imgStart: true,
   svgimage: require('../../images/png-1.png'),
@@ -22,9 +22,9 @@ export const homeObjTwo = {
   lightText: false,
   lightTextDesc: false,
   topLine: 'Unlimited Access',
-  header: 'Lorem Ipsum hooha whatever',
+  header: 'Bank Anywhere in the World',
   description:
-    'bjkashbdiuhefuh iuduiv bduiscnsjab uiuibiuascuibquisa bqausuias basiubsauib absiubauis  bauosb',
+    'Lorem ipsum dolor sit amet, consectetur adipiscing elit. Curabitur sit amet faucibus tellus vel purus pharetra, a consequat justo lobortis. Nam aliquet.',
   buttonLabel: 'Learn More',
   imgStart: false,
   svgimage: require('../../images/png-2.png'),
@@ -60,7 +60,7 @@ export const homeObjFour = {
   topLine: 'Sign Up Today',
   header: 'Creating An Acount is Super Easy',
   description:
-    'bjkashbdiuhefuh iuduiv bduiscnsjab uiuibiuascuibquisa bqausuias basiubsauib absiubauis  bauosb',
+    'Lorem ipsum dolor sit amet, consectetur adipiscing elit. Curabitur sit amet faucibus tellus vel purus pharetra, a consequat justo lobortis. Nam aliquet.',
   buttonLabel: 'Create an Account',
   imgStart: false,
   svgimage: require('../../images/png-4.png'),

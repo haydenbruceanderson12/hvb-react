@@ -1,5 +1,6 @@
 import React from 'react'
 import { FaBars } from 'react-icons/fa'
+// import { GrMoney } from 'react-icons/gr'
 import {
   Nav,
   NavLogo,
@@ -17,7 +18,7 @@ const Navbar = ({ toggle }) => {
     <>
       <Nav>
         <NavbarContainer>
-          <NavLogo to="home">dolla</NavLogo>
+          <NavLogo to="home">HVB</NavLogo>
           <MobileIcon onClick={toggle}>
             <FaBars />
           </MobileIcon>

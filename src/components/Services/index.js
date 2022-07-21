@@ -22,24 +22,24 @@ const Services = () => {
             <ServicesIcon src={Icon1}></ServicesIcon>
             <ServicesH2>Reduce your Risk</ServicesH2>
             <ServicesP>
-              We Help you make more jhcaiush h uiash huiash i asn iasniasnuina
-              asbuisa
+              Lorem ipsum dolor sit amet, consectetur adipiscing elit.
+              Pellentesque imperdiet tristique tortor.
             </ServicesP>
           </ServicesCard>
           <ServicesCard>
             <ServicesIcon src={Icon2}></ServicesIcon>
             <ServicesH2>Virtual Offices</ServicesH2>
             <ServicesP>
-              We Help you make more jhcaiush h uiash huiash i asn iasniasnuina
-              asbuisa
+              Lorem ipsum dolor sit amet, consectetur adipiscing elit.
+              Pellentesque imperdiet tristique tortor.
             </ServicesP>
           </ServicesCard>
           <ServicesCard>
             <ServicesIcon src={Icon3}></ServicesIcon>
             <ServicesH2>Premium Benefits</ServicesH2>
             <ServicesP>
-              We Help you make more jhcaiush h uiash huiash i asn iasniasnuina
-              asbuisa
+              Lorem ipsum dolor sit amet, consectetur adipiscing elit.
+              Pellentesque imperdiet tristique tortor.
             </ServicesP>
           </ServicesCard>
         </ServicesWrapper>

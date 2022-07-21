@@ -9,11 +9,11 @@ export const ServicesContainer = styled.div`
   background-color: black;
 
   @media screen and (max-width: 768px) {
-    height: 1200px;
+    height: 1300px;
   }
 
   @media screen and (max-width: 480px) {
-    height: 1300px;
+    height: 1350px;
   }
 `
 
@@ -47,7 +47,7 @@ export const ServicesCard = styled.div`
   padding: 40px;
   box-shadow: 0 1px 3px rgba (0, 0, 0, 0.2);
 
-  &.hover {
+  &:hover {
     transform: scale(1.02);
     transition: all 0.2s ease-in-out;
     cursor: pointer;
@@ -65,6 +65,7 @@ export const ServicesH1 = styled.h1`
 
   @media screen and (max-width: 480px) {
     font-size: 2rem;
+    margin-top: 40px;
   }
 `
 
